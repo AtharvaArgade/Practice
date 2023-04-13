@@ -9,6 +9,7 @@ class Demo{
 	public static void main(String arg[]){
 
 		mul();
+		System.out.println("HEllo, Welcome to coding");
 
 	}
 }
